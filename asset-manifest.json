@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Reactcurd/static/css/main.11621a67.css",
+    "main.js": "/Reactcurd/static/js/main.a8b625f6.js",
+    "static/js/787.b029e248.chunk.js": "/Reactcurd/static/js/787.b029e248.chunk.js",
+    "index.html": "/Reactcurd/index.html",
+    "main.11621a67.css.map": "/Reactcurd/static/css/main.11621a67.css.map",
+    "main.a8b625f6.js.map": "/Reactcurd/static/js/main.a8b625f6.js.map",
+    "787.b029e248.chunk.js.map": "/Reactcurd/static/js/787.b029e248.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11621a67.css",
+    "static/js/main.a8b625f6.js"
+  ]
+}
