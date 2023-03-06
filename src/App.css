@@ -1,0 +1,17 @@
+.icon-edit{
+    cursor: pointer;
+    color:hotpink;
+    transition: translateY ;
+}
+.icon-edit:hover{
+    color: rgb(95, 131, 160);
+    transform: translateY(-2px);
+}
+.icon-delete{
+    cursor: pointer;
+    color:lightcoral;
+}
+.icon-delete:hover{
+    transform: translateY(-2px);
+    color:rgb(95, 131, 160);
+}
